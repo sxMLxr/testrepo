@@ -1,8 +1,7 @@
-# testrepo
+# IBM DATA SCIENCE CAPSTONE
 
-## Editing the file
-
-Its a markdown file in this repository.
+## PROJECT
+All work is mine, all code tested.
 
 Applied Data Science Capstone Project
 
